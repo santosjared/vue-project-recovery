@@ -1,0 +1,89 @@
+{
+  "empleados": [
+    {
+      "id": 2,
+      "nombre": "Juan Carlos Rodriguez",
+      "area": "Médico"
+    },
+    {
+      "nombre": "Silvia conde",
+      "area": "Contabilidad",
+      "id": 5
+    },
+    {
+      "nombre": "Silvia mamani sigillanes",
+      "area": "Finanzas",
+      "id": 6
+    },
+    {
+      "nombre": "Jhonatan Condori Fern",
+      "area": "Médico",
+      "id": 7
+    },
+    {
+      "nombre": "Juan Carlos Ramirez",
+      "area": "Contabilidad",
+      "id": 8
+    },
+    {
+      "nombre": "Manuel Portugal",
+      "area": "Médico",
+      "id": 9
+    },
+    {
+      "nombre": "sofia Ronaldez",
+      "area": "Médico",
+      "id": 10
+    },
+    {
+      "nombre": "Wilson Mamani Quispe",
+      "area": "Chofer",
+      "id": 11
+    },
+    {
+      "nombre": "Jhoselin Ibarra Contreras",
+      "area": "Chofer",
+      "id": 12
+    }
+  ],
+  "vehiculos": [
+    {
+      "empleadoId": 2,
+      "tipo": "Automóvil",
+      "placa": "SDF 789",
+      "color": "Verde",
+      "id": 1
+    },
+    {
+      "empleado": "",
+      "tipoVehiculo": "1",
+      "placa": "JKK 890",
+      "color": "Rosado",
+      "otroTipo": "",
+      "empleadoId": 6,
+      "tipo": "Moto",
+      "id": 2
+    },
+    {
+      "empleadoId": 10,
+      "tipo": "Bus",
+      "placa": "SDF 678",
+      "color": "Negro",
+      "id": 3
+    },
+    {
+      "empleadoId": 5,
+      "tipo": "Automóvil",
+      "placa": "SDF 223",
+      "color": "Azul",
+      "id": 4
+    },
+    {
+      "empleadoId": 8,
+      "tipo": "Automóvil",
+      "placa": "XDF 345",
+      "color": "Amarrillo",
+      "id": 5
+    }
+  ]
+}
